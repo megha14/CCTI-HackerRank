@@ -1,3 +1,3 @@
-# CCTI-HackerRank
+# CCTI-HackerRank-Java
 
-Adding the solutions to the problems given in CCTI-Hackerrank
+Adding the solutions to the problems given in CCTI-Hackerrank and implemented in Java
