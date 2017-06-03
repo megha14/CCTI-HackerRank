@@ -17,7 +17,7 @@ public class PrimalityTest {
         else if(n%2==0 || n<=1)
              return "Not prime";
         else{
-            for(int i=3;i<Math.sqrt(n+1);i=i+2){
+            for(int i=3;i<=Math.sqrt(n);i=i+2){
                 if(n%i==0)
                     return "Not prime";
             }  
